@@ -42,4 +42,10 @@ Deploy this model as a clinical decision support tool to:
 ## Next Steps: 
 Integrate model into Electronic Health Records (EHR) systems and validate with larger, diverse patient populations to improve accuracy above 85%.
 
+### Let’s Connect:
+If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
+
+- **Email:** poisedconsult@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/babatunde-joel-etu/
+
 
